@@ -1,0 +1,157 @@
+User
+Articles
+About 108 results (0.04 sec)
+My profileMy library
+Any time
+Since 2017
+Since 2016
+Since 2013
+Custom range...
+Sort by relevance
+Sort by date
+include patents
+include citations
+Create alert
+FOXQ1 regulates epithelial-mesenchymal transition in human cancers
+Search within citing articles
+[HTML] nih.gov
+[HTML] Molecular mechanisms of epithelial–mesenchymal transition
+S Lamouille, J Xu, R Derynck - Nature reviews. Molecular cell …, 2014 - ncbi.nlm.nih.gov
+Abstract The transdifferentiation of epithelial cells into motile mesenchymal cells, a process 
+known as epithelial–mesenchymal transition (EMT), is integral in development, wound 
+healing and stem cell behaviour, and contributes pathologically to fibrosis and cancer 
+  Cited by 1714 Related articles All 8 versions
+[HTML] nih.gov
+Large-scale genotyping identifies 41 new loci associated with breast cancer risk
+K Michailidou, P Hall, A Gonzalez-Neira… - Nature …, 2013 - nature.com
+Breast cancer is the most common cancer among women. Common variants at 27 loci have 
+been identified as associated with susceptibility to breast cancer, and these account for~ 9% 
+of the familial risk of the disease. We report here a meta-analysis of 9 genome-wide 
+  Cited by 596 Related articles All 31 versions
+Cancer genetics and genomics of human FOX family genes
+M Katoh, M Igarashi, H Fukuda, H Nakagama, M Katoh - Cancer letters, 2013 - Elsevier
+Forkhead-box (FOX) family proteins, involved in cell growth and differentiation as well as 
+embryogenesis and longevity, are DNA-binding proteins regulating transcription and DNA 
+repair. The focus of this review is on the mechanisms of FOX-related human carcinogenesis. 
+  Cited by 175 Related articles All 8 versions
+[HTML] jbc.org
+Roles of STAT3 and ZEB1 proteins in E-cadherin down-regulation and human colorectal cancer epithelial-mesenchymal transition
+H Xiong, J Hong, W Du, Y Lin, L Ren, Y Wang… - Journal of Biological …, 2012 - ASBMB
+Results: STAT3 may regulate N-cadherin, vimentin, and ZEB1 expressions. STAT3-induced 
+cell invasion and down-regulation of E-cadherin may depend on ZEB1. Conclusion: STAT3 
+may mediate CRC EMT progression and ZEB1 expression. Activation of STAT3 and ZEB1 
+  Cited by 158 Related articles All 6 versions
+[HTML] biomedcentral.com
+[HTML] Breast cancer epithelial-to-mesenchymal transition: examining the functional consequences of plasticity
+DJ Drasin, TP Robin, HL Ford - Breast Cancer …, 2011 - breast-cancer-research. …
+Abstract The epithelial-to-mesenchymal transition (EMT) is a critical developmental process 
+that has recently come to the forefront of cancer biology. In breast carcinomas, acquisition of 
+a mesenchymal-like phenotype that is reminiscent of an EMT, termed oncogenic EMT, is 
+  Cited by 111 Related articles All 16 versions 
+[HTML] wiley.com
+[HTML] Forkhead box Q1 promotes hepatocellular carcinoma metastasis by transactivating ZEB2 and VersicanV1 expression
+L Xia, W Huang, D Tian, L Zhang, X Qi, Z Chen… - …, 2014 - Wiley Online Library
+Abstract Forkhead box Q1 (FoxQ1) is a master regulator of tumor metastasis. However, the 
+molecular mechanism of FoxQ1 in regulating hepatocellular carcinoma (HCC) metastasis 
+remains unknown. Here we report a novel function for FoxQ1 in modifying the tumor 
+  Cited by 75 Related articles All 6 versions
+[HTML] plos.org
+[HTML] FoxQ1 overexpression influences poor prognosis in non-small cell lung cancer, associates with the phenomenon of EMT
+J Feng, X Zhang, H Zhu, X Wang, S Ni, J Huang - PloS one, 2012 - journals.plos.org
+Background We determined the expression of forkhead box Q1 (FoxQ1), E-cadherin (E-cad), 
+Mucin 1 (MUC1), vimentin (VIM) and S100 calcium binding protein A4 (S100A4), all 
+epithelial-mesenchymal transition (EMT) indicator proteins in non-small cell lung cancer 
+  I by 71 Related articles All 11 versions 
+The rejuvenated scenario of epithelial–mesenchymal transition (EMT) and cancer metastasis
+F Meng, G Wu - Cancer and Metastasis Reviews, 2012 - Springer
+Abstract The molecular mechanisms underlying cancer progression and metastasis are still 
+poorly understood. In recent years, the epithelial-to-mesenchymal transition (EMT), a 
+traditional phenomenon revealed in embryonic development, has been gradually accepted 
+  Cited by 68 Related articles All 9 versions
+[HTML] sciencedirect.com
+[HTML] Gene networks and transcription factor motifs defining the differentiation of stem cells into hepatocyte-like cells
+P Godoy, W Schmidt-Heck, K Natarajan… - Journal of …, 2015 - Elsevier
+Methods Genome-wide gene expression profiles of ESC and HLC were compared to freshly 
+isolated and up to 14 days cultivated primary human hepatocytes. Gene networks 
+representing successful and failed hepatocyte differentiation, and the transcription factors 
+  Cited by 59 Related articles All 21 versions
+[HTML] nih.gov
+[HTML] Role of epithelial-mesenchymal transition in gastric cancer initiation and progression
+Z Peng, CX Wang, EH Fang, GB Wang… - World Journal of …, 2014 - ncbi.nlm.nih.gov
+Abstract Gastric cancer is one of the most common malignant tumors worldwide. Due to its 
+intricate initiation and progression mechanisms, early detection and effective treatment of 
+gastric cancer are difficult to achieve. The epithelial-mesenchymal transition (EMT) is 
+  Cited by 60 Related articles All 7 versions
+[HTML] sciencedirect.com
+[HTML] Inherited genetic susceptibility to breast cancer: the beginning of the end or the end of the beginning?
+M Ghoussaini, PDP Pharoah, DF Easton - The American journal of …, 2013 - Elsevier
+Breast cancer is the most common cancer among women in both developing and developed 
+regions in the world, accounting for 23% of all malignancies in women worldwide. 1 In the 
+United States, the lifetime risk of breast cancer is approximately one in eight. 2 It is also the 
+  Cited by 52 Related articles All 7 versions
+[HTML] biomedcentral.com
+[HTML] The ubiquitin–proteasome system and signal transduction pathways regulating Epithelial Mesenchymal transition of cancer
+IA Voutsadakis - Journal of biomedical science, 2012 - jbiomedsci.biomedcentral.com
+Abstract Epithelial to Mesenchymal transition (EMT) in cancer, a process permitting cancer 
+cells to become mobile and metastatic, has a signaling hardwire forged from development. 
+Multiple signaling pathways that regulate carcinogenesis enabling characteristics in 
+  Cited by 41 Related articles All 15 versions 
+[HTML] aacrjournals.org
+ALX1 induces snail expression to promote epithelial-to-mesenchymal transition and invasion of ovarian cancer cells
+H Yuan, H Kajiyama, S Ito, N Yoshikawa, T Hyodo… - Cancer research, 2013 - AACR
+Abstract Ovarian cancer is a highly invasive and metastatic disease with a poor prognosis if 
+diagnosed at an advanced stage, which is often the case. Recent studies argue that ovarian 
+cancer cells that have undergone epithelial-to-mesenchymal transition (EMT) acquire 
+  Cited by 40 Related articles All 8 versions
+[HTML] nih.gov
+[HTML] Epithelial-mesenchymal transition in gastric cancer
+L Huang, RL Wu, AM Xu - American journal of translational …, 2015 - ncbi.nlm.nih.gov
+Abstract Gastric cancer (GC) is one of the most common malignancies worldwide with poor 
+prognosis for lack of early detection and effective treatment modalities. The significant 
+influence of tumor microenvironment on malignant cells has been extensively investigated in 
+  Cited by 45 Related articles All 6 versions
+[HTML] plos.org
+[HTML] FOXQ1, a novel target of the Wnt pathway and a new marker for activation of Wnt signaling in solid tumors
+J Christensen, S Bentz, T Sengstag, VP Shastri… - PloS one, 2013 - journals.plos.org
+Background The forkhead box transcription factor FOXQ1 has been shown to be 
+upregulated in colorectal cancer (CRC) and metastatic breast cancer and involved in tumor 
+development, epithelial-mesenchymal transition and chemoresistance. Yet, its 
+  Cited by 34 Related articles All 15 versions 
+Increased expression of FOXQ1 is a prognostic marker for patients with gastric cancer
+SH Liang, XZ Yan, BL Wang, HF Jin, LP Yao, YN Li… - Tumor Biology, 2013 - Springer
+Abstract Altered expression of forkhead box Q1 (FOXQ1) is observed in various types of 
+human cancers. However, the clinical significance of FOXQ1 expression in gastric cancer 
+(GC) remains largely unknown. The present study aims to explore the clinicopathological 
+  Cited by 35 Related articles All 8 versions
+[HTML] spandidos-publications.com
+[HTML] Short hairpin RNA targeting FOXQ1 inhibits invasion and metastasis via the reversal of epithelial-mesenchymal transition in bladder cancer
+Z Zhu, Z Zhu, Z Pang, Y Xing… - International …, 2013 - spandidos-publications.com
+Abstract The epithelial-mesenchymal transition (EMT) promotes cancer invasion and 
+metastasis, however, the integrative mechanisms that coordinate the process are 
+incompletely understood. In this study, we defined a pivotal functional role for the Forkhead 
+  Cited by 34 Related articles All 6 versions
+[HTML] oup.com
+Free from Publisher
+Suppression of FOXQ1 in benzyl isothiocyanate-mediated inhibition of epithelial–mesenchymal transition in human breast cancer cells
+A Sehrawat, SH Kim, A Vogt, SV Singh - Carcinogenesis, 2012 - academic.oup.com
+Abstract We showed previously that breast cancer chemoprevention with benzyl 
+isothiocyanate (BITC) in MMTV-neu mice was associated with induction of E-cadherin 
+protein in vivo. Loss of E-cadherin expression and induction of mesenchymal markers (eg 
+  Cited by 32 Related articles All 10 versions
+[HTML] plos.org
+[HTML] FoxQ1 promotes glioma cells proliferation and migration by regulating NRXN3 expression
+HT Sun, SX Cheng, Y Tu, XH Li, S Zhang - PloS one, 2013 - journals.plos.org
+Background Forkhead box Q1 (FoxQ1) is a member of the forkhead transcription factor 
+family, and it has recently been found to participate in cancer development. However, 
+whether FoxQ1 expression contributes to glioma development and progression is not 
+  Cited by 30 Related articles All 11 versions 
+[HTML] nih.gov
+The network of epithelial–mesenchymal transition: potential new targets for tumor resistance
+D Nantajit, D Lin, JJ Li - Journal of cancer research and clinical oncology, 2015 - Springer
+Abstract Purpose In multiple cell metazoans, the ability of polarized epithelial cells to convert 
+to motile mesenchymal cells in order to relocate to another location is governed by a unique 
+process termed epithelial–mesenchymal transition (EMT). While being an essential process 
+  Cited by 31 Related articles All 11 versions
+1	2	3	4	5	6	
+Next
+HelpPrivacyTerms
