@@ -13,11 +13,10 @@ Pack Q1 function as an API(POST way) in flask framework
     $ python3 MSapi.py
     ```
  - Step 2. Send POST request in the folloing format
-    > Format: http://127.0.0.1:8000/msscholar/<query>
-    > Example : http://127.0.0.1:8000/msscholar/Fin10K
-
+    > <p>Format: http://127.0.0.1:8000/msscholar/<query></p>
+    > <p>Example : http://127.0.0.1:8000/msscholar/Fin10K</p>
 ### 3. Google Scholar Crawler
-Use python to build a crawler for the following website
+<p>Use python to build a crawler for the following website</p>
 **(NOTE): The function cannot crawl target page because it will be detect as ROBOT. The program only implemeted the parser part.**
 ```
 $ python3 GoogleScholarSpider.py GoogleSchlar_sample_file.html
