@@ -1,0 +1,15 @@
+Please answer the following questions: (20%)1. Do you have the experience of using python package “scrapy” ?
+沒有實際使用scrapy爬過資料大量資料，只有跟著scrapy官方tutorial操作，爬過簡單網頁。
+2. Are you familiar with sql-like database? Which one?
+過去進行網頁開發時，使用過MySQL，但僅限於基礎的新增查詢等操作，較複雜的應用必須搭配查詢相關語法才能做進一步的操作。
+3. Please describe the most difficult project you have ever in charged of.
+開發RiskFinder財務風險偵測系統，網頁的主要目的是利用類神經網路模型訓練分類器，自動偵測以語句為單位的風險類型。
+系統開發流程如下：
+(a)搜集資料：由SEC美國證券交易委員會下載上市公司財報原始檔案；下載股價資料。
+(b)資料前處理：去除不必要的tag與符號，並抽取相關內容以後續進行分析。
+(c)資料標記：以財務情緒字典為種子，挑選候選句子交付財務專家做資料標記。
+(d)模型訓練：利用類神經網路模型訓練風險偵測分類器。
+(e)網頁開發：將分類結果與相關數值資料內容以網頁方式呈現，主要開發語言是python，框架是bottle，並利用D3.js做動態股價資料視覺化呈現。
+
+4. Please describe the distributed web crawling project you have ever in charged of.
+過去沒有操作過分散式爬蟲的經驗。
