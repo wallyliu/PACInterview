@@ -17,7 +17,8 @@ Pack Q1 function as an API(POST way) in flask framework
     > <p>Example : http://127.0.0.1:8000/msscholar/Fin10K</p>
 ### 3. Google Scholar Crawler
 <p>Use python to build a crawler for the following website</p>
-** <p>(NOTE): The function cannot crawl target page because it will be detect as ROBOT. The program only implemeted the parser part.</p> **
+** (NOTE): This function cannot crawl target page because it will be detected as ROBOT.
+It only implements a parser part. **
 
 ```
 $ python3 GoogleScholarSpider.py GoogleSchlar_sample_file.html
