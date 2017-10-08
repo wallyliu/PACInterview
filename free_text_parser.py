@@ -1,5 +1,5 @@
 # -*- utf-8 -*-
-import re, sys, pprint
+import re, sys, pprint, json
 
 def parser(tpath):
     f = open(tpath, 'r')
@@ -9,7 +9,7 @@ def parser(tpath):
     for index, value in enumerate(raw_data):
         if re.findall(r'[0-9]{4} -', value) != []:
             result.append(raw_data[index-1].replace('[HTML] ', ''))
-    return result
+    return json.dumps({'paper_title': result})
 
 if __name__ == '__main__':
     tpath = sys.argv[1]

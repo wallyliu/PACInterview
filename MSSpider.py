@@ -2,7 +2,7 @@
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.keys import Keys
-import time, re, json
+import time, re, json, pprint
 from bs4 import BeautifulSoup
 
 class MicroScholar:
@@ -27,7 +27,6 @@ class MicroScholar:
         driver = webdriver.Chrome()
         base_url = "https://academic.microsoft.com/"
         driver.get(base_url + "/")
-        #driver.find_element_by_css_selector("ma-queryformulation.searchWrap > div.search-input > #searchControl").clear()
         driver.find_element_by_css_selector("ma-queryformulation.searchWrap > div.search-input > #searchControl").send_keys(query)
         driver.find_element_by_css_selector("ma-queryformulation.searchWrap > div.search-btn").click()
         time.sleep(10)
@@ -51,10 +50,11 @@ class MicroScholar:
         self.journal.append(','.join(tmp_journal))
 
     def jsonencode(self):
+        # decode list data to json format
         return json.dumps({'affiliations': self.affiliations, 'authors': self.authors, 'journal': self.journal})
 
 if __name__ == '__main__':
     query = "Bayesian operational modal analysis: Theory, computation, practice"
     spider = MicroScholar()
     result = spider.run(query)
-    print(result)
+    pprint.pprint(result)
